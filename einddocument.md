@@ -426,6 +426,7 @@ Goede promotie is daarom essentieel om veel gebruikers te bereiken.
 ![Sitemap](Sitemap.png)
 
 Toelichting bij de sitemap
+
 Deze sitemap is ontwikkeld op basis van de user stories van verschillende gebruikersrollen, zoals klanten, medewerkers, leveranciers en managers. De structuur van de app is afgestemd op hun wensen en behoeften. Elke hoofdcategorie (zoals Klantenservice, Ondersteuning en Instellingen) bevat functionaliteiten die direct voortkomen uit deze user stories.
 
 De bijbehorende wireframes geven per onderdeel visueel weer hoe deze functies eruit kunnen zien in de app. Samen vormen de sitemap en wireframes een onderbouwde blauwdruk voor de ontwikkeling van een gebruiksvriendelijke en toekomstgerichte mobiele applicatie voor Nexa.
