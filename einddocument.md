@@ -188,8 +188,8 @@ We gebruiken de **SIPOC-methode** om een duidelijk overzicht te geven van de hui
 | **Visie**: Klant centraal, efficiëntie | SIPOC toont selfservice en personalisatie |
 | **Strategie**: Klantervaring, innovatie, efficiëntie | SIPOC maakt dit concreet via AI, ERP, meldingen |
 | **Doelstellingen**: 80% tevredenheid, 25% loyaliteit, 30% minder hulpvragen, jaarlijkse innovaties, 70% adoptie | SIPOC geeft inzicht hoe deze doelen via procesverandering bereikt worden |
-
-## 5.0 User Stories – Gebruikerszijde (klanten)
+## 5.0 Productvisie 
+## 6.0 User Stories – Gebruikerszijde (klanten)
 
 - **Als klant wil ik** mijn Nexa-smartphone kunnen koppelen via een QR-code of barcode,  
   → zodat ik snel toegang krijg tot productinformatie en garantie.
@@ -217,7 +217,7 @@ We gebruiken de **SIPOC-methode** om een duidelijk overzicht te geven van de hui
 
 ---
 
-## 5.1 User Stories – Organisatie en partners
+## 6.1 User Stories – Organisatie en partners
 
 - **Als medewerker wil ik** actuele klant- en productinformatie kunnen inzien,  
   → zodat ik klanten sneller kan helpen.
@@ -242,7 +242,7 @@ We gebruiken de **SIPOC-methode** om een duidelijk overzicht te geven van de hui
 
 ---
 
-## 6.0 Domeinmodel
+## 7.0 Domeinmodel
 
 **Entiteiten:**
 
@@ -270,25 +270,12 @@ We gebruiken de **SIPOC-methode** om een duidelijk overzicht te geven van de hui
 
 ---
 
-## 7.0 UML-klassendiagram
+## 8.0 UML-klassendiagram
 
 _(Afbeelding niet opgenomen)_
 
 ---
 
-## 9.0 Koppeling met User Stories
+## 9.0 Sitemap
 
-- **User Story:** “Als klant wil ik mijn smartphone koppelen via QR-code”  
-  → Zie entiteit **Smartphone** met velden zoals serienummer.
-
-- **User Story:** “Als klant wil ik afspraken kunnen maken”  
-  → Zie entiteit **Afspraken**, gekoppeld aan klant en medewerker.
-
-- **User Story:** “Als bedrijf wil ik loyaliteitspunten beheren”  
-  → Zie entiteit **Loyaliteitspunt**, gekoppeld aan klant.
-
-- **User Story:** “Als bedrijf wil ik pushmeldingen sturen”  
-  → Zie entiteit **Pushmelding**.
-
-- **User Story:** “Als partner wil ik kunnen adverteren”  
-  → Zie entiteit **Partner** met veld advertentie.
+## 10.0 Wireframes
