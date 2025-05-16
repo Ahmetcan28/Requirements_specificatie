@@ -423,6 +423,6 @@ Goede promotie is daarom essentieel om veel gebruikers te bereiken.
 ---
 
 ## 9.0 Sitemap
-
+![Sitemap](Sitemap.png)
 ## 10.0 Wireframes
 ![Wireframes](Wireframes.png)
