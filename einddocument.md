@@ -225,7 +225,7 @@ We gebruiken de **SIPOC-methode** om een duidelijk overzicht te geven van de hui
 | **Strategie**: Klantervaring, innovatie, efficiëntie | SIPOC maakt dit concreet via AI, ERP, meldingen |
 | **Doelstellingen**: 80% tevredenheid, 25% loyaliteit, 30% minder hulpvragen, jaarlijkse innovaties, 70% adoptie | SIPOC geeft inzicht hoe deze doelen via procesverandering bereikt worden |
 ## 5.0 Productvisie
-
+![productvisionboard](productvisionboard.png)
 ### 5.1 Visie
 
 De visie beschrijft wat we met het product willen bereiken.  
