@@ -428,6 +428,9 @@ Goede promotie is daarom essentieel om veel gebruikers te bereiken.
 ![Wireframes](Wireframes.png)
 
 1 Welkom systeem, hier kan je er voor kiezen om in te loggen of om een account aan te maken 
+
 2 Productregistratie via QR-code, Registreer snel je toestel door een QR-code of barcode te scannen, of voer handmatig je serienummer in om toegang te krijgen tot gepersonaliseerde productinformatie.
+
 3 Mijn apparatenoverzicht, In dit overzicht zie je al je geregistreerde Nexa-producten met informatie over garantie, software en aankoopdatum, allemaal overzichtelijk bij elkaar.
+
 4 AI-chat & klantenservice, Stel eenvoudig vragen via de AI-chatbot, vind zelf antwoorden via de FAQ of neem contact op met een medewerker voor persoonlijke ondersteuning.
