@@ -1,5 +1,6 @@
 # Requirements specificatie
-![Software Requirement Specification](assets/Software-Requirement-Specification.jpg)
+![Software Requirement Specification](https://github.com/ahmetcan123/nexa-afbeeldingen/blob/main/Software-Requirement-Specification.jpg?raw=true)
+
 
 **Namen:** Ahmetcan Akin, Melih Danismaz, Kaan Akgurbuz, Bilal Chernobi  
 **Docent:** Jeroen van Gils  
