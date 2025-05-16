@@ -214,34 +214,6 @@ We gebruiken de **SIPOC-methode** om een duidelijk overzicht te geven van de hui
 | **Visie**: Klant centraal, efficiëntie | SIPOC toont selfservice en personalisatie |
 | **Strategie**: Klantervaring, innovatie, efficiëntie | SIPOC maakt dit concreet via AI, ERP, meldingen |
 | **Doelstellingen**: 80% tevredenheid, 25% loyaliteit, 30% minder hulpvragen, jaarlijkse innovaties, 70% adoptie | SIPOC geeft inzicht hoe deze doelen via procesverandering bereikt worden |
-## 5.0 Productvisie 
-## 6.0 User Stories – Gebruikerszijde (klanten)
-
-- **Als klant wil ik** mijn Nexa-smartphone kunnen koppelen via een QR-code of barcode,  
-  → zodat ik snel toegang krijg tot productinformatie en garantie.
-
-- **Als klant wil ik** afspraken kunnen maken voor onderhoud, reparaties of adviesgesprekken,  
-  → zodat mijn apparaat goed blijft functioneren.
-
-- **Als klant wil ik** een overzicht van alle geregistreerde apparaten met aankoopdatum, garantie en softwareversie,  
-  → zodat ik mijn gegevens overzichtelijk kan inzien.
-
-- **Als klant wil ik** handleidingen, uitlegvideo’s en tips bekijken,  
-  → zodat ik weet hoe ik mijn toestel optimaal kan gebruiken.
-
-- **Als klant wil ik** via een AI-chatbot vragen kunnen stellen,  
-  → zodat ik ook buiten werktijden hulp krijg.
-
-- **Als klant wil ik** suggesties krijgen voor accessoires en updates,  
-  → zodat ik mijn gebruikservaring kan verbeteren.
-
-- **Als klant wil ik** een melding ontvangen voor een afspraak,  
-  → zodat ik deze niet vergeet.
-
-- **Als klant wil ik** tweefactorauthenticatie instellen,  
-  → zodat mijn gegevens beter beschermd zijn.
-
----
 ## 5.0 Productvisie
 
 ### 5.1 Visie
@@ -351,6 +323,35 @@ Tot slot: via welke kanalen gaan we de app aanbieden aan klanten:
 
 Als niemand weet dat de app bestaat, zal niemand hem downloaden.  
 Goede promotie is daarom essentieel om veel gebruikers te bereiken.
+
+## 6.0 User Stories – Gebruikerszijde (klanten)
+
+- **Als klant wil ik** mijn Nexa-smartphone kunnen koppelen via een QR-code of barcode,  
+  → zodat ik snel toegang krijg tot productinformatie en garantie.
+
+- **Als klant wil ik** afspraken kunnen maken voor onderhoud, reparaties of adviesgesprekken,  
+  → zodat mijn apparaat goed blijft functioneren.
+
+- **Als klant wil ik** een overzicht van alle geregistreerde apparaten met aankoopdatum, garantie en softwareversie,  
+  → zodat ik mijn gegevens overzichtelijk kan inzien.
+
+- **Als klant wil ik** handleidingen, uitlegvideo’s en tips bekijken,  
+  → zodat ik weet hoe ik mijn toestel optimaal kan gebruiken.
+
+- **Als klant wil ik** via een AI-chatbot vragen kunnen stellen,  
+  → zodat ik ook buiten werktijden hulp krijg.
+
+- **Als klant wil ik** suggesties krijgen voor accessoires en updates,  
+  → zodat ik mijn gebruikservaring kan verbeteren.
+
+- **Als klant wil ik** een melding ontvangen voor een afspraak,  
+  → zodat ik deze niet vergeet.
+
+- **Als klant wil ik** tweefactorauthenticatie instellen,  
+  → zodat mijn gegevens beter beschermd zijn.
+
+---
+
 
 ## 6.1 User Stories – Organisatie en partners
 
