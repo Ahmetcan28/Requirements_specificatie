@@ -167,7 +167,7 @@ We maken gebruik van de **Power-Interest Matrix** om te bepalen hoe we met stake
   - *Media* – indirecte reputatie-invloed  
   - *Concurrenten* – wederzijdse marktinvloed, beperkt  
 
----
+![matrix](matrix.jpg)
 
 > *Waarom deze matrix?*  
 De Power-Interest Matrix biedt inzicht in zowel invloed als betrokkenheid. Het helpt bij het stellen van prioriteiten in communicatie en samenwerking.
@@ -298,7 +298,7 @@ We gebruiken de **SIPOC-methode** om een duidelijk overzicht te geven van de hui
 
 ## 8.0 UML-klassendiagram
 
-_(Afbeelding niet opgenomen)_
+![uml klassendiagram](uml-klassendiagram.jpg)
 
 ---
 
