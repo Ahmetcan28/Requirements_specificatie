@@ -74,7 +74,7 @@ Onze visie is om een innovatieve app te maken waarbij de klant echt centraal sta
 
 ### 1.5 Organogram
 
-![Procesdiagram](https://github.com/Ahmetcan28/Requirements_Specificatie/blob/main/Schermafbeelding%202025-05-16%20om%2014.46.56.png?raw=true)
+![organogram](organogram.jpg)
 
 
 
