@@ -74,7 +74,7 @@ Onze visie is om een innovatieve app te maken waarbij de klant echt centraal sta
 
 ### 1.5 Organogram
 
-_(Afbeelding niet opgenomen)_
+
 
 ---
 
