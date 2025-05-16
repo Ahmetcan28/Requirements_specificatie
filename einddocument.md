@@ -242,6 +242,115 @@ We gebruiken de **SIPOC-methode** om een duidelijk overzicht te geven van de hui
   → zodat mijn gegevens beter beschermd zijn.
 
 ---
+## 5.0 Productvisie
+
+### 5.1 Visie
+
+De visie beschrijft wat we met het product willen bereiken.  
+Wij willen een app ontwikkelen die de gebruiksvriendelijkheid verbetert en ervoor zorgt dat klanten sneller geholpen worden bij problemen.  
+Dit is belangrijk, omdat klanten verwachten dat hun vragen of klachten snel worden opgepakt.  
+Door een app te gebruiken, kunnen we hen sneller helpen, wat leidt tot een hogere klanttevredenheid.
+
+---
+
+### 5.2 Doelgroep
+
+De doelgroep bestaat uit mensen voor wie de app bedoeld is.  
+In ons geval zijn dat klanten die al eerder producten bij Nexa hebben gekocht en klanten die waarde hechten aan een makkelijke, duidelijke app.  
+Onze app sluit hier goed op aan, omdat hij speciaal ontwikkeld wordt met het oog op gebruiksvriendelijkheid.
+
+---
+
+### 5.3 Behoeften
+
+Hier kijken we naar wat de klant nodig heeft en van ons verwacht.  
+Klanten willen:
+
+- Hun producten snel kunnen registreren  
+- Hulp krijgen via een AI-chatbot of klantenservice  
+
+Dit is belangrijk, omdat het zorgt voor snelle service.  
+Als de klantenservice tijdelijk niet bereikbaar is, dan is er altijd nog de AI-chatbot die 24/7 klaarstaat.  
+Dat voorkomt wachttijden en verhoogt de tevredenheid.
+
+---
+
+### 5.4 Product
+
+Het product is de app zelf die we ontwikkelen en die de klant uiteindelijk gebruikt.  
+Kenmerken van onze app:
+
+- Werkt op zowel iOS als Android  
+- Bevat een ingebouwde AI-chatbot die vragen beantwoordt  
+- Kan gekoppeld worden aan systemen zoals CRM en ERP  
+
+Deze eigenschappen zijn belangrijk omdat:
+
+- De app dan voor zo veel mogelijk mensen toegankelijk is  
+- De AI-chatbot de klantenservice deels vervangt, waardoor minder medewerkers nodig zijn  
+- De koppeling met CRM en ERP zorgt voor betere integratie bij bedrijven  
+
+---
+
+### 5.5 Bedrijfsdoelen
+
+Dit zijn de doelen die we als bedrijf willen bereiken met deze app:
+
+- Minstens 80% klanttevredenheid binnen 12 maanden  
+- 25% toename in klantloyaliteit  
+- 30% minder supportverzoeken via de app (selfservice)  
+
+Deze doelen geven richting en zorgen ervoor dat we weten waar we naartoe werken.  
+Ze helpen ook bij het meten van succes.
+
+---
+
+### 5.6 Concurrenten
+
+De concurrenten zijn andere bedrijven waar we ons mee moeten vergelijken:
+
+- **Nextgen** is groot en actief op de internationale markt, maar heeft een hogere prijs  
+- **Solmate** is duurzaam en richt zich op hoge kwaliteit  
+
+Dit is belangrijk omdat we van onze concurrenten kunnen leren.  
+De hogere prijs van Nextgen kan voor ons een concurrentievoordeel zijn als wij voordeliger zijn.  
+De focus van Solmate op duurzaamheid kan ons inspireren, maar hoge kwaliteit betekent ook hoge kosten – iets om rekening mee te houden.
+
+---
+
+### 5.7 Inkomsten
+
+Hier leggen we uit hoe we geld gaan verdienen met de app:
+
+- We bieden een premium service aan waarvoor gebruikers kunnen betalen  
+- We doen aan upselling van accessoires via persoonlijke aanbevelingen in de app  
+
+Zo zorgen we ervoor dat de app niet alleen handig is voor klanten, maar ook inkomsten oplevert voor het bedrijf.
+
+---
+
+### 5.8 Kosten
+
+De kosten zijn de uitgaven die we moeten doen om de app te maken en draaiende te houden:
+
+- Ontwikkeling van de app voor iOS en Android  
+- Onderhoud en beveiliging van de app  
+- Het inhuren van extra personeel  
+
+Het is belangrijk om hier goed naar te kijken, want zonder voldoende budget kunnen we de app niet goed ontwikkelen of onderhouden.
+
+---
+
+### 5.9 Kanalen
+
+Tot slot: via welke kanalen gaan we de app aanbieden aan klanten:
+
+- Appstores (zoals Google Play en App Store)  
+- Promotie via social media en televisie  
+- De bedrijfswebsite  
+
+Als niemand weet dat de app bestaat, zal niemand hem downloaden.  
+Goede promotie is daarom essentieel om veel gebruikers te bereiken.
 
 ## 6.1 User Stories – Organisatie en partners
 
