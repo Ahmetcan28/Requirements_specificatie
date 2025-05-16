@@ -1,6 +1,6 @@
 # Requirements specificatie
-**![Software Requirement Specification](https://github.com/<gebruikersnaam>/<repo>/blob/main/<pad>/Software-Requirement-Specification.jpg?raw=true)
-**
+![Software Requirement Specification](assets/Software-Requirement-Specification.jpg)
+
 **Namen:** Ahmetcan Akin, Melih Danismaz, Kaan Akgurbuz, Bilal Chernobi  
 **Docent:** Jeroen van Gils  
 **Opdracht:** Requirements Specificatie  
