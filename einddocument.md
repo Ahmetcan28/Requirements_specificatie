@@ -21,6 +21,28 @@
 | 0.1          | 14-05 & 15-05-2025 | Kaan Akgurbuz       | Wireframes                    | Ahmercan Akin       |
 
 ---
+## Inhoudsopgave
+
+1. [Organisatorische context](#10-organisatorische-context)  
+    1.1 [Missie](#11-missie)  
+    1.2 [Visie](#12-visie)  
+    1.3 [Strategie](#13-strategie)  
+    1.4 [Doelstellingen](#14-doelstellingen)  
+    1.5 [Organogram](#15-organogram)  
+2. [Stakeholderanalyse](#20-stakeholderanalyse)  
+    2.1 [Stakeholdergroepen](#21-stakeholdergroepen)  
+    2.2 [Power-Interest Matrix](#22-power-interest-matrix)  
+3. [Actoren](#30-actoren)  
+4. [Bedrijfsprocesanalyse (SIPOC)](#40-bedrijfsprocesanalyse-sipoc)  
+    - [SIPOC-tabel](#sipoc-tabel)  
+    - [Strategisch verband met SIPOC](#strategisch-verband-met-sipoc)  
+5. [Productvisie](#50-productvisie)  
+6. [User Stories – Gebruikerszijde](#60-user-stories--gebruikerszijde-klanten)  
+    6.1 [User Stories – Organisatie en partners](#61-user-stories--organisatie-en-partners)  
+7. [Domeinmodel](#70-domeinmodel)  
+8. [UML-klassendiagram](#80-uml-klassendiagram)  
+9. [Sitemap](#90-sitemap)  
+10. [Wireframes](#100-wireframes)
 
 ## 1.0 Organisatorische context
 
