@@ -32,33 +32,43 @@
 ## Inhoudsopgave
 
 1. [Organisatorische context](#10-organisatorische-context)  
-    1.1 [Missie](#11-missie)  
-    1.2 [Visie](#12-visie)  
-    1.3 [Strategie](#13-strategie)  
-    1.4 [Doelstellingen](#14-doelstellingen)  
-    1.5 [Organogram](#15-organogram)  
+   - [Missie](#11-missie)  
+   - [Visie](#12-visie)  
+   - [Strategie](#13-strategie)  
+   - [Doelstellingen](#14-doelstellingen)  
+   - [Organogram](#15-organogram)  
+
 2. [Stakeholderanalyse](#20-stakeholderanalyse)  
-    2.1 [Stakeholdergroepen](#21-stakeholdergroepen)  
-    2.2 [Power-Interest Matrix](#22-power-interest-matrix)  
+   - [Algemene stakeholders van Nexa](#algemene-stakeholders-van-nexa)  
+   - [Power-Interest Matrix](#stakeholderanalyse-power-interest-matrix)  
+   - [Projectspecifieke stakeholders](#projectspecificieke-stakeholders--mobiele-applicatie)
+
 3. [Actoren](#30-actoren)  
-4. [Bedrijfsprocesanalyse (SIPOC)](#40-bedrijfsprocesanalyse-sipoc)  
-    - [SIPOC-tabel](#sipoc-tabel)  
-    - [Strategisch verband met SIPOC](#strategisch-verband-met-sipoc)  
+
+4. [Bedrijfsprocesanalyse (SIPOC)](#40-bedrijfsprocesanalyse)  
+   - [SIPOC-tabel](#sipoc)  
+   - [Doelstellingen](#doelstellingen)
+
 5. [Productvisie](#50-productvisie)  
-    5.1 [Visie](#51-visie)  
-    5.2 [Doelgroep](#52-doelgroep)  
-    5.3 [Behoeften](#53-behoeften)  
-    5.4 [Product](#54-product)  
-    5.5 [Bedrijfsdoelen](#55-bedrijfsdoelen)  
-    5.6 [Concurrenten](#56-concurrenten)  
-    5.7 [Inkomsten](#57-inkomsten)  
-    5.8 [Kosten](#58-kosten)  
-    5.9 [Kanalen](#59-kanalen)  
+   - [Visie](#51-visie)  
+   - [Doelgroep](#52-doelgroep)  
+   - [Behoeften](#53-behoeften)  
+   - [Product](#54-product)  
+   - [Bedrijfsdoelen](#55-bedrijfsdoelen)  
+   - [Concurrenten](#56-concurrenten)  
+   - [Inkomsten](#57-inkomsten)  
+   - [Kosten](#58-kosten)  
+   - [Kanalen](#59-kanalen)
+
 6. [User Stories – Gebruikerszijde](#60-user-stories--gebruikerszijde-klanten)  
-    6.1 [User Stories – Organisatie en partners](#61-user-stories--organisatie-en-partners)  
+6.1 [User Stories – Organisatie en partners](#61-user-stories--organisatie-en-partners)
+
 7. [Domeinmodel](#70-domeinmodel)  
+
 8. [UML-klassendiagram](#80-uml-klassendiagram)  
+
 9. [Sitemap](#90-sitemap)  
+
 10. [Wireframes](#100-wireframes)
 
 
