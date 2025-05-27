@@ -134,9 +134,23 @@ Stakeholders kunnen intern of extern zijn. Interne stakeholders zijn betrokken b
 | Managementteam      | De directie en het management van Nexa (CEO, COO, CFO, CMO, HRM) zijn verantwoordelijk voor het aansturen van de organisatie en het nemen van strategische beslissingen. |
 | Overheid            | De Nederlandse overheid oefent invloed uit via wet- en regelgeving. Nexa moet voldoen aan nationale eisen op het gebied van privacy, consumentenrecht, belasting en productveiligheid. |
 | Leveranciers        | Deze partijen leveren de benodigde producten of onderdelen aan Nexa. Aangezien Nexa met één hoofdleverancier werkt, is deze partij belangrijk voor de bedrijfscontinuïteit. |
-| I
- 
+| Investeerders / Bank| De investeerders of banken die Nexa financieel ondersteunen, bijvoorbeeld via leningen. In ruil voor hun bijdrage verwachten zij rendement of financiële stabiliteit. |
+| Media               | De media speelt een rol in de publieke perceptie van Nexa. Positieve of negatieve berichtgeving kan de reputatie van het bedrijf beïnvloeden. |
 
+## Stakeholderanalyse: Power-Interest Matrix
+
+Om inzicht te krijgen in de invloed en betrokkenheid van deze stakeholders, maken we gebruik van de Power-Interest Matrix. Dit model helpt ons te bepalen welke stakeholders nauw gemanaged moeten worden, wie geïnformeerd moet worden en wie we vooral monitoren.
+
+### Indeling volgens Power-Interest Matrix:
+
+- **Manage closely**: Managementteam, Klanten  
+- **Keep satisfied**: Overheid, Externe partners  
+- **Keep informed**: Investeerders / Bank, Leverancier  
+- **Monitor**: Media, Concurrenten  
+
+We kiezen voor dit model omdat het niet alleen kijkt naar macht of belang afzonderlijk, maar naar de combinatie daarvan. Dat maakt het geschikt om prioriteiten te stellen in communicatie en samenwerking.
+
+ 
 ![matrix](matrix.jpg)
 
 ## 3.0 Actoren
