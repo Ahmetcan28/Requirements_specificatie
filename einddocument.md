@@ -220,24 +220,17 @@ SIPOC beschrijft hoe deze doelen bereikt worden via de transitie van IST naar SO
 
 ## 5.0 Productvisie
 ![productvisionboard](productvisionboard.png)
-### 5.1 Visie
+# 5.1 Visie
 
 De visie beschrijft wat we met het product willen bereiken.  
-Wij willen een app ontwikkelen die de gebruiksvriendelijkheid verbetert en ervoor zorgt dat klanten sneller geholpen worden bij problemen.  
-Dit is belangrijk, omdat klanten verwachten dat hun vragen of klachten snel worden opgepakt.  
-Door een app te gebruiken, kunnen we hen sneller helpen, wat leidt tot een hogere klanttevredenheid.
+Wij willen een app ontwikkelen die de gebruiksvriendelijkheid verbetert en ervoor zorgt dat klanten sneller geholpen worden bij problemen. Dit is belangrijk, omdat klanten verwachten dat hun vragen of klachten snel worden opgepakt. Door een app te gebruiken, kunnen we hen sneller helpen, wat leidt tot een hogere klanttevredenheid.
 
----
-
-### 5.2 Doelgroep
+# 5.2 Doelgroep
 
 De doelgroep bestaat uit mensen voor wie de app bedoeld is.  
-In ons geval zijn dat klanten die al eerder producten bij Nexa hebben gekocht en klanten die waarde hechten aan een makkelijke, duidelijke app.  
-Onze app sluit hier goed op aan, omdat hij speciaal ontwikkeld wordt met het oog op gebruiksvriendelijkheid.
+In ons geval zijn dat klanten die al eerder producten bij Nexa hebben gekocht en klanten die waarde hechten aan een makkelijke, duidelijke app. Onze app sluit hier goed op aan, omdat hij speciaal ontwikkeld wordt met het oog op gebruiksvriendelijkheid.
 
----
-
-### 5.3 Behoeften
+# 5.3 Behoeften
 
 Hier kijken we naar wat de klant nodig heeft en van ons verwacht.  
 Klanten willen:
@@ -245,13 +238,9 @@ Klanten willen:
 - Hun producten snel kunnen registreren  
 - Hulp krijgen via een AI-chatbot of klantenservice  
 
-Dit is belangrijk, omdat het zorgt voor snelle service.  
-Als de klantenservice tijdelijk niet bereikbaar is, dan is er altijd nog de AI-chatbot die 24/7 klaarstaat.  
-Dat voorkomt wachttijden en verhoogt de tevredenheid.
+Dit is belangrijk, omdat het zorgt voor snelle service. Als de klantenservice tijdelijk niet bereikbaar is, dan is er altijd nog de AI-chatbot die 24/7 klaarstaat. Dat voorkomt wachttijden en verhoogt de tevredenheid.
 
----
-
-### 5.4 Product
+# 5.4 Product
 
 Het product is de app zelf die we ontwikkelen en die de klant uiteindelijk gebruikt.  
 Kenmerken van onze app:
@@ -264,11 +253,9 @@ Deze eigenschappen zijn belangrijk omdat:
 
 - De app dan voor zo veel mogelijk mensen toegankelijk is  
 - De AI-chatbot de klantenservice deels vervangt, waardoor minder medewerkers nodig zijn  
-- De koppeling met CRM en ERP zorgt voor betere integratie bij bedrijven  
+- De koppeling met CRM en ERP zorgt voor betere integratie bij bedrijven
 
----
-
-### 5.5 Bedrijfsdoelen
+# 5.5 Bedrijfsdoelen
 
 Dit zijn de doelen die we als bedrijf willen bereiken met deze app:
 
@@ -276,25 +263,18 @@ Dit zijn de doelen die we als bedrijf willen bereiken met deze app:
 - 25% toename in klantloyaliteit  
 - 30% minder supportverzoeken via de app (selfservice)  
 
-Deze doelen geven richting en zorgen ervoor dat we weten waar we naartoe werken.  
-Ze helpen ook bij het meten van succes.
+Deze doelen geven richting en zorgen ervoor dat we weten waar we naartoe werken. Ze helpen ook bij het meten van succes.
 
----
-
-### 5.6 Concurrenten
+# 5.6 Concurrenten
 
 De concurrenten zijn andere bedrijven waar we ons mee moeten vergelijken:
 
-- **Nextgen** is groot en actief op de internationale markt, maar heeft een hogere prijs  
-- **Solmate** is duurzaam en richt zich op hoge kwaliteit  
+- Nextgen is groot en actief op de internationale markt, maar heeft een hogere prijs  
+- Solmate is duurzaam en richt zich op hoge kwaliteit  
 
-Dit is belangrijk omdat we van onze concurrenten kunnen leren.  
-De hogere prijs van Nextgen kan voor ons een concurrentievoordeel zijn als wij voordeliger zijn.  
-De focus van Solmate op duurzaamheid kan ons inspireren, maar hoge kwaliteit betekent ook hoge kosten – iets om rekening mee te houden.
+Dit is belangrijk omdat we van onze concurrenten kunnen leren. De hogere prijs van Nextgen kan voor ons een concurrentievoordeel zijn als wij voordeliger zijn. De focus van Solmate op duurzaamheid kan ons inspireren, maar hoge kwaliteit betekent ook hoge kosten – iets om rekening mee te houden.
 
----
-
-### 5.7 Inkomsten
+# 5.7 Inkomsten
 
 Hier leggen we uit hoe we geld gaan verdienen met de app:
 
@@ -303,9 +283,7 @@ Hier leggen we uit hoe we geld gaan verdienen met de app:
 
 Zo zorgen we ervoor dat de app niet alleen handig is voor klanten, maar ook inkomsten oplevert voor het bedrijf.
 
----
-
-### 5.8 Kosten
+# 5.8 Kosten
 
 De kosten zijn de uitgaven die we moeten doen om de app te maken en draaiende te houden:
 
@@ -315,18 +293,16 @@ De kosten zijn de uitgaven die we moeten doen om de app te maken en draaiende te
 
 Het is belangrijk om hier goed naar te kijken, want zonder voldoende budget kunnen we de app niet goed ontwikkelen of onderhouden.
 
----
+# 5.9 Kanalen
 
-### 5.9 Kanalen
-
-Tot slot: via welke kanalen gaan we de app aanbieden aan klanten:
+Tot slot: via welke kanalen gaan we de app aanbieden aan klanten
 
 - Appstores (zoals Google Play en App Store)  
 - Promotie via social media en televisie  
 - De bedrijfswebsite  
 
-Als niemand weet dat de app bestaat, zal niemand hem downloaden.  
-Goede promotie is daarom essentieel om veel gebruikers te bereiken.
+Als niemand weet dat de app bestaat, zal niemand hem downloaden. Goede promotie is daarom essentieel om veel gebruikers te bereiken.
+
 
 ## 6.0 User Stories – Gebruikerszijde (klanten)
 
