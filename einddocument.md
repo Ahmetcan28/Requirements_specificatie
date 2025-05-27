@@ -153,48 +153,71 @@ We kiezen voor dit model omdat het niet alleen kijkt naar macht of belang afzond
  
 ![matrix](matrix.jpg)
 
-## 3.0 Actoren
+## Projectspecificieke stakeholders – mobiele applicatie
 
-Binnen ons bedrijf zijn er verschillende actoren die invloed uitoefenen op het bedrijf. Hieronder volgt een overzicht van de belangrijkste actoren:
+Naast de algemene stakeholders van Nexa, zijn er ook stakeholders die specifiek invloed hebben op of betrokken zijn bij het project rond de ontwikkeling van de mobiele applicatie. Deze stakeholders zijn essentieel voor het succes van het systeem.
 
-| **Actoren**        | **Beschrijving** |
-|--------------------|------------------|
-| **Klanten**        | Personen die smartphones of aanverwante producten kopen via Nexa. Ze vormen de belangrijkste bron van inkomsten en zijn direct betrokken bij het gebruik van de mobiele applicatie. |
-| **Concurrentie**   | Andere bedrijven binnen de telecom- of techbranche die vergelijkbare producten of diensten aanbieden. Zij beïnvloeden de markt waarin Nexa opereert. |
-| **Medewerkers**    | Werknemers binnen Nexa die betrokken zijn bij o.a. promotiebeheer, productaanbevelingen via de app, en technische ondersteuning (inclusief ontwikkelaars). |
-| **Externe partners** | Bedrijven die Nexa ondersteunen bij diensten zoals reparatie, onderhoud of marketing. |
-| **Managementteam** | De directie en het management van Nexa sturen de organisatie aan en nemen strategische beslissingen. |
-| **Overheid**       | Beïnvloedt Nexa via wet- en regelgeving op het gebied van privacy, consumentenrecht, belasting en productveiligheid. |
-| **Leveranciers**   | Leveren de benodigde producten of onderdelen. Nexa is afhankelijk van één hoofdleverancier. |
-| **Investeerders / Bank** | Financieren Nexa via leningen en verwachten rendement of stabiliteit. |
-| **Media**          | Beïnvloedt de publieke perceptie van Nexa via publicaties. |
+| Projectstakeholder       | Rol binnen het app-project |
+|--------------------------|-----------------------------|
+| Product Owner            | Vertegenwoordigt de belangen van de gebruiker en stuurt de ontwikkeling inhoudelijk aan. |
+| Development team         | Bouwt, test en onderhoudt de mobiele applicatie. |
+| Marketing & Sales team   | Bepaalt de inhoud van promoties en communicatie via de app. |
+| Klantenservice           | Behandelt vragen van gebruikers die via de app binnenkomen. |
+| Data-analist / R&A       | Analyseert gebruiksdata en adviseert over verbeteringen. |
+| Externe UX-consultants   | Testen de gebruiksvriendelijkheid van de app en leveren verbeterpunten aan. |
+| Gebruikers (klanten)     | Eindgebruikers van de app, die de functionaliteiten benutten. |
+
+# 3.0 Actoren
+
+Binnen requirementsanalyse bedoelen we met actoren de personen of systemen die direct interacteren met de app: ze voeren handelingen uit of ontvangen informatie van het systeem. Niet alle stakeholders zijn actoren.
+
+| Actor               | Beschrijving |
+|---------------------|--------------|
+| Klant (eindgebruiker) | Gebruikt de app voor aankopen, meldingen, aanbevelingen en ondersteuning. |
+| Klantenservice       | Handelt meldingen en vragen af via de appinterface of gekoppelde CRM-module. |
+| Appbeheerder         | Beheert instellingen, gebruikersrollen en functionaliteiten binnen het systeem. |
+| Verkoopmedewerker    | Plaatst producten en promoties via het beheersysteem dat met de app verbonden is. |
+| Marketingmanager     | Verstuurt campagnes en pushmeldingen via de app. |
+| AI-systeem           | Levert automatisch aanbevelingen op basis van klantgedrag. |
+| Data-analist         | Analyseert interacties in de app voor rapportages en optimalisatie. |
+
+**Primaire actoren:** Klant, klantenservice, verkoopmedewerker  
+**Secundaire actoren:** Appbeheerder, data-analist, AI-systeem, marketingmanager
 
 ---
 
-## 4.0 Bedrijfsprocesanalyse (SIPOC)
+# 4.0 Bedrijfsprocesanalyse
 
-We gebruiken de **SIPOC-methode** om een duidelijk overzicht te geven van de huidige (IST) en gewenste (SOLL) situatie, en de knelpunten daartussen (GAPs).
+Wij gaan onze bedrijfsprocesanalyse maken met SIPOC. SIPOC is een essentieel hulpmiddel die gebruikt kan worden om een beter beeld te krijgen over in hoe een organisatie momenteel te werk gaat. Je kijkt eerst hoe een organisatie momenteel werkt (IST) daarna kijk je hoe deze zou moeten werken (SOLL), en welke knelpunten (gaps) er bestaan tussen de huidige en gewenste situatie. Door processen grondig te analyseren kunnen inefficiënties, knelpunten en verbeterkansen worden geïdentificeerd. Dit vormt een sterke basis voor de ontwikkeling of implementatie van een nieuw systeem zoals de mobiele applicatie voor PhoneVentures. Een paar voorbeelden van het gebruik van SIPOC zijn onder andere, dat het wederzijdsbegrip creeert en er bestaat een gezamenlijk beeld van het proces, Ook maakt het het proces visueel en dat geeft toegevoegde waarde voor alle betrokkenen.
 
-### SIPOC-tabel
+Een veelgebruikte methode om processen te structureren is de SIPOC-analyse. SIPOC staat voor:
 
-| **SIPOC**   | **IST (Huidige situatie)** | **SOLL (Toekomstige situatie)** | **Gap (Knelpunten)** |
-|------------|----------------------------|----------------------------------|------------------------|
-| **Suppliers** | - Klant levert productinformatie handmatig<br>- Medewerker helpt bij registratie<br>- IT/support doen diagnose handmatig | - Klant levert gegevens via app<br>- AI legt problemen automatisch vast<br>- Informatie via CRM/ERP-integratie | Klanten zijn afhankelijk van handmatige ondersteuning, beperkt technologisch gebruik |
-| **Inputs** | - Serienummers via e-mail<br>- Losse garantie-aanvragen<br>- Handmatige interactie vereist | - Invoer via QR/barcode of app<br>- Realtime updates via gekoppelde systemen<br>- Automatisch klantgedrag volgen | Handmatige input kost tijd en is foutgevoelig |
-| **Process** | - Klant belt/mailt voor hulp<br>- Handmatige registratie<br>- Trage supportafhandeling | - Registratie in app<br>- App toont garanties/status<br>- Feedback- en communityfunctie | Geen centrale toegang, geen proactieve klantinteractie |
-| **Outputs** | - E-mailbevestiging<br>- Oplossing na wachttijd<br>- Handmatige terugkoppeling | - Direct dashboardinzicht<br>- Pushmeldingen<br>- Beloningen via gamification | Trage terugkoppeling, geen personalisatie |
-| **Customers** | - Wachten op reactie<br>- Hoge werkdruk op support | - AI/selfservice voor snelle hulp<br>- Medewerkers focussen op complexere vragen | Lage klanttevredenheid, hoge werkdruk, gemiste loyaliteitskansen |
+- Suppliers (leveranciers),
+- Inputs (invoer),
+- Process (het kernproces zelf),
+- Outputs (resultaten), en
+- Customers (klanten/gebruikers van de output).
 
----
+## SIPOC
 
-### Strategisch verband met SIPOC
+| SIPOC     | IST (Huidige situatie)                                                                 | SOLL (Toekomstige situatie)                                                             | Gap (Knelpunten)                                                                                   |
+|-----------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| Suppliers | - Klant levert zijn productinformatie handmatig<br>- Medewerker helpt bij regristratie en klanten<br>- IT en supportteam voeren diagnose handmatig uit | - Klant levert gegevens via de app<br>- AI zorgt ervoor dat problemen automatisch zijn vastgelegd<br>- Informatie komt via CRM en ERP integratie | Klanten zijn afhankelijk van handmatige ondersteuning; beperkt gebruik van technologie.             |
+| Inputs    | - Serienummers, IMEI scan via telefoon of e-mail<br>- Losse garantie of supportaanvragen<br>- Interactie met medewerkers is vereist | - Invoer via QR/barcode-scan of app-interface<br>- updates via gekoppelde systemen<br>- Klantgedrag wordt automatisch gevolgd | Handmatige input kost tijd en is foutgevoelig; geen data-inzichten                                 |
+| Process   | - Klant belt of mailt voor hulp<br>- Registratie handmatig<br>- Langzame doorlooptijd bij support | - Klant registreert product direct in app<br>- App toont producten, garanties, status en biedt directe hulp<br>- Community en feedbackloop | Geen centrale toegang tot productinfo of help; geen proactieve klantinteractie                     |
+| Outputs   | - Bevestiging via e-mail<br>- Oplossingen na wachttijd<br>- Handmatige terugkoppeling over garantie of updates | - Direct inzicht via dashboard<br>- Pushnotificaties over updates, service en promoties<br>- Personalisatie en beloningen via gamification | Trage terugkoppeling; communicatie niet gepersonaliseerd                                           |
+| Customers | - Klanten wachten op reacties<br>- Medewerkers worden overbelast bij veel supportvragen | - Klanten krijgen snelle hulp via AI & selfservice<br>- Medewerkers focussen op complexe hulpvragen<br>- Hogere tevredenheid en betrokkenheid | Lage klanttevredenheid, hoge druk op personeel, gemiste kans op loyaliteit                         |
 
-| **Strategisch doel** | **Relatie met SIPOC** |
-|----------------------|------------------------|
-| **Missie**: Toegankelijke app | App centraliseert registratie en support (SOLL) |
-| **Visie**: Klant centraal, efficiëntie | SIPOC toont selfservice en personalisatie |
-| **Strategie**: Klantervaring, innovatie, efficiëntie | SIPOC maakt dit concreet via AI, ERP, meldingen |
-| **Doelstellingen**: 80% tevredenheid, 25% loyaliteit, 30% minder hulpvragen, jaarlijkse innovaties, 70% adoptie | SIPOC geeft inzicht hoe deze doelen via procesverandering bereikt worden |
+## Doelstellingen:
+
+- 80% tevredenheid  
+- 25% hogere klantloyaliteit  
+- 30% minder hulpvragen  
+- Jaarlijkse innovaties  
+- 70% app-adoptie  
+
+SIPOC beschrijft hoe deze doelen bereikt worden via de transitie van IST naar SOLL
+
 ## 5.0 Productvisie
 ![productvisionboard](productvisionboard.png)
 ### 5.1 Visie
