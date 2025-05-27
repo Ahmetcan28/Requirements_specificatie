@@ -423,21 +423,20 @@ Goede promotie is daarom essentieel om veel gebruikers te bereiken.
 ---
 
 ## 9.0 Sitemap
-![Sitemap](Sitemap.png)
+![sitemap](sitemap.png)
 
 Toelichting bij de sitemap
 
-Deze sitemap is ontwikkeld op basis van de user stories van verschillende gebruikersrollen, zoals klanten, medewerkers, leveranciers en managers. De structuur van de app is afgestemd op hun wensen en behoeften. Elke hoofdcategorie (zoals Klantenservice, Ondersteuning en Instellingen) bevat functionaliteiten die direct voortkomen uit deze user stories.
+Deze sitemap geeft een overzicht van de structuur van de Nexa-app. Vanuit het centrale home-scherm heeft de gebruiker toegang tot alle hoofdfunctionaliteiten, zoals het koppelen van apparaten via QR-code, het inplannen van afspraken, het bekijken van gekoppelde toestellen, het gebruik van de AI-chatbot en het beheren van accountinstellingen. Elke hoofdfunctionaliteit bevat onderliggende schermen die logisch zijn gegroepeerd en afgestemd op de bijbehorende user stories. Dit zorgt voor een eenvoudige navigatie en gebruiksvriendelijke app-ervaring.
 
 De bijbehorende wireframes geven per onderdeel visueel weer hoe deze functies eruit kunnen zien in de app. Samen vormen de sitemap en wireframes een onderbouwde blauwdruk voor de ontwikkeling van een gebruiksvriendelijke en toekomstgerichte mobiele applicatie voor Nexa.
 
 ## 10.0 Wireframes
-![Wireframes](Wireframes.png)
+![wireframes](wireframes.png)
+1 Schedule appointment, Gebruikers kunnen hier eenvoudig een afspraak plannen voor onderhoud, reparatie of advies. Ze kiezen een datum en tijd, en ontvangen een bevestiging via e-mail en pushmelding.
 
-1 Welkom systeem, hier kan je er voor kiezen om in te loggen of om een account aan te maken 
+2 My devices, Dit scherm geeft een overzicht van alle gekoppelde Nexa-toestellen van de gebruiker. Per toestel zijn de garantieperiode, softwareversie en aankoopdatum zichtbaar.
 
-2 Productregistratie via QR-code, Registreer snel je toestel door een QR-code of barcode te scannen, of voer handmatig je serienummer in om toegang te krijgen tot gepersonaliseerde productinformatie.
+3 Chatbot, Een AI-ondersteunde chatomgeving waar gebruikers snel antwoord krijgen op veelgestelde vragen, zoals software-updates of garantie. Ook handmatige invoer is mogelijk.
 
-3 Mijn apparatenoverzicht, In dit overzicht zie je al je geregistreerde Nexa-producten met informatie over garantie, software en aankoopdatum, allemaal overzichtelijk bij elkaar.
-
-4 AI-chat & klantenservice, Stel eenvoudig vragen via de AI-chatbot, vind zelf antwoorden via de FAQ of neem contact op met een medewerker voor persoonlijke ondersteuning.
+4 Homepage ,  Het hoofdscherm van de app, van waaruit de gebruiker toegang heeft tot alle belangrijke functies: QR-code scannen, apparaten beheren, afspraken plannen en support chatten.
