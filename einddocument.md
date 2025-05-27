@@ -303,58 +303,245 @@ Tot slot: via welke kanalen gaan we de app aanbieden aan klanten
 
 Als niemand weet dat de app bestaat, zal niemand hem downloaden. Goede promotie is daarom essentieel om veel gebruikers te bereiken.
 
+# 6.0 User Stories – Gebruikerszijde (klanten)
 
-## 6.0 User Stories – Gebruikerszijde (klanten)
+## User Story 1 (MVP)
 
-- **Als klant wil ik** mijn Nexa-smartphone kunnen koppelen via een QR-code of barcode,  
-  → zodat ik snel toegang krijg tot productinformatie en garantie.
+**Als** klantenservicemedewerker die klanten snel wil helpen,  
+**wil ik** altijd actuele klant- en productinformatie kunnen raadplegen via het systeem,  
+**zodat** ik directe en juiste ondersteuning kan bieden.
 
-- **Als klant wil ik** afspraken kunnen maken voor onderhoud, reparaties of adviesgesprekken,  
-  → zodat mijn apparaat goed blijft functioneren.
+**Acceptatiecriteria:**
+- Informatie wordt automatisch gesynchroniseerd met de app.
+- Klantgegevens, producten en afspraken zijn zichtbaar.
+- Gegevens zijn real-time bijgewerkt.
 
-- **Als klant wil ik** een overzicht van alle geregistreerde apparaten met aankoopdatum, garantie en softwareversie,  
-  → zodat ik mijn gegevens overzichtelijk kan inzien.
-
-- **Als klant wil ik** handleidingen, uitlegvideo’s en tips bekijken,  
-  → zodat ik weet hoe ik mijn toestel optimaal kan gebruiken.
-
-- **Als klant wil ik** via een AI-chatbot vragen kunnen stellen,  
-  → zodat ik ook buiten werktijden hulp krijg.
-
-- **Als klant wil ik** suggesties krijgen voor accessoires en updates,  
-  → zodat ik mijn gebruikservaring kan verbeteren.
-
-- **Als klant wil ik** een melding ontvangen voor een afspraak,  
-  → zodat ik deze niet vergeet.
-
-- **Als klant wil ik** tweefactorauthenticatie instellen,  
-  → zodat mijn gegevens beter beschermd zijn.
+**Story points:** 3  
+**Prioriteit:** MVP
 
 ---
 
+## User Story 2 (MVP)
 
-## 6.1 User Stories – Organisatie en partners
+**Als** klant die net een nieuwe Nexa-smartphone heeft gekocht,  
+**wil ik** mijn toestel kunnen koppelen via een QR-code,  
+**zodat** ik snel toegang krijg tot productinformatie en garantie.
 
-- **Als medewerker wil ik** actuele klant- en productinformatie kunnen inzien,  
-  → zodat ik klanten sneller kan helpen.
+**Acceptatiecriteria:**
+- Er is een werkende QR-scanner geïntegreerd in de app.
+- Na scannen wordt het toestel automatisch gekoppeld aan het juiste klantprofiel.
+- De klant ziet direct bevestiging en garantiegegevens.
 
-- **Als bedrijf willen we** meldingen sturen naar klanten,  
-  → zodat we betrokken blijven.
+**Story points:** 3  
+**Prioriteit:** MVP
 
-- **Als bedrijf willen we** een loyaliteitssysteem aanbieden,  
-  → zodat klanten punten kunnen sparen.
+---
 
-- **Als bedrijf willen we** statistieken over gebruikersgedrag bekijken,  
-  → zodat we beter begrijpen wat klanten nodig hebben.
+## User Story 3 (MVP)
 
-- **Als manager wil ik** rapporten over klanttevredenheid en klachten inzien,  
-  → zodat ik tijdig kan bijsturen.
+**Als** klant met meerdere Nexa-apparaten,  
+**wil ik** een overzicht kunnen zien van al mijn geregistreerde toestellen,  
+**zodat** ik in één oogopslag garantie, aankoopdata en softwareversies kan bekijken.
 
-- **Als leverancier wil ik** een melding krijgen bij lage voorraad,  
-  → zodat ik op tijd kan bijvullen.
+**Acceptatiecriteria:**
+- Alle gekoppelde toestellen worden getoond in een lijst.
+- Per toestel zijn details zichtbaar zoals garantie, softwareversie en aankoopdatum.
+- De lijst is up-to-date en sorteerbaar.
 
-- **Als externe partner wil ik** mijn diensten promoten in de app,  
-  → zodat ik nieuwe klanten bereik.
+**Story points:** 2  
+**Prioriteit:** MVP
+
+---
+
+## User Story 4
+
+**Als** klant die zelfstandig problemen wil oplossen,  
+**wil ik** handleidingen en uitlegvideo’s kunnen bekijken,  
+**zodat** ik mijn toestel beter begrijp en optimaal kan gebruiken.
+
+**Acceptatiecriteria:**
+- Elke smartphone heeft een eigen tabblad met documentatie.
+- De content is interactief (tekst, video, stappenplan).
+- Beschikbaar in minimaal twee talen.
+
+**Story points:** 3  
+**Prioriteit:** Medium
+
+---
+
+## User Story 5 (MVP)
+
+**Als** klant die buiten kantoortijden ondersteuning nodig heeft,  
+**wil ik** een AI-chatbot kunnen gebruiken,  
+**zodat** ik 24/7 antwoord krijg op veelgestelde vragen.
+
+**Acceptatiecriteria:**
+- De chatbot is beschikbaar in de app.
+- Kan minimaal 10 veelgestelde vragen afhandelen.
+- Stuurt mij door naar klantenservice als nodig.
+
+**Story points:** 5  
+**Prioriteit:** MVP
+
+---
+
+## User Story 6
+
+**Als** klant die op zoek is naar accessoires,  
+**wil ik** persoonlijke suggesties krijgen in de app,  
+**zodat** ik eenvoudig relevante producten kan kopen.
+
+**Acceptatiecriteria:**
+- Aanbevelingen zijn gebaseerd op mijn toesteltype en aankoophistorie.
+- Aanbevelingen zijn zichtbaar op de startpagina en productpagina.
+- Beschikbaar met een “niet interessant”-optie.
+
+**Story points:** 3  
+**Prioriteit:** Medium
+
+---
+
+## User Story 7
+
+**Als** klant die een afspraak heeft gepland,  
+**wil ik** automatisch herinnerd worden,  
+**zodat** ik mijn afspraak niet vergeet.
+
+**Acceptatiecriteria:**
+- Pushmelding 24 uur en 1 uur voor de afspraak.
+- E-mailbevestiging met datum, tijd en locatie.
+- Notificatie moet uit te zetten zijn.
+
+**Story points:** 2  
+**Prioriteit:** Medium
+
+---
+
+## User Story 8
+
+**Als** klant die veel waarde hecht aan veiligheid,  
+**wil ik** tweefactorauthenticatie kunnen instellen,  
+**zodat** mijn gegevens extra beschermd zijn.
+
+**Acceptatiecriteria:**
+- Ondersteuning voor SMS- of app-gebaseerde 2FA (zoals Google Authenticator).
+- Instellen en uitschakelen via accountinstellingen.
+- Back-upcode beschikbaar.
+
+**Story points:** 4  
+**Prioriteit:** Laag
+
+# 6.1 User Stories – Organisatie en partners
+
+## User Story 1 (MVP)
+
+**Als** klantenservicemedewerker die klanten snel wil helpen,  
+**wil ik** altijd actuele klant- en productinformatie kunnen raadplegen via het systeem,  
+**zodat** ik directe en juiste ondersteuning kan bieden.
+
+**Acceptatiecriteria:**
+- Informatie wordt automatisch gesynchroniseerd met de app.
+- Klantgegevens, producten en afspraken zijn zichtbaar.
+- Gegevens zijn real-time bijgewerkt.
+
+**Story points:** 3  
+**Prioriteit:** MVP
+
+---
+
+## User Story 2 (MVP)
+
+**Als** marketingmedewerker,  
+**wil ik** gepersonaliseerde meldingen kunnen sturen naar klanten over updates en aanbiedingen,  
+**zodat** we de klantbetrokkenheid verhogen.
+
+**Acceptatiecriteria:**
+- Meldingen kunnen gesegmenteerd worden op klanttype, toestel en gedrag.
+- Pushmeldingen en e-mails kunnen handmatig of automatisch worden verzonden.
+- De klant kan meldingen beheren via zijn instellingen.
+
+**Story points:** 3  
+**Prioriteit:** MVP
+
+---
+
+## User Story 3
+
+**Als** loyalty-manager,  
+**wil ik** een puntensysteem beheren in de app,  
+**zodat** klanten beloond worden voor interactie en aankopen.
+
+**Acceptatiecriteria:**
+- Punten worden automatisch toegekend bij acties (zoals aankoop of review).
+- Klanten kunnen punten inwisselen voor beloningen.
+- Punten zijn zichtbaar in het profiel van de klant.
+
+**Story points:** 4  
+**Prioriteit:** Medium
+
+---
+
+## User Story 4
+
+**Als** data-analist,  
+**wil ik** geanonimiseerde statistieken over gebruikersgedrag kunnen inzien,  
+**zodat** we de app kunnen verbeteren op basis van klantvoorkeuren.
+
+**Acceptatiecriteria:**
+- Gegevens bevatten geen persoonsinformatie (AVG-proof).
+- Dashboards tonen trends zoals appgebruik, klikgedrag en populaire functies.
+- Rapporten kunnen worden geëxporteerd.
+
+**Story points:** 3  
+**Prioriteit:** Medium
+
+---
+
+## User Story 5
+
+**Als** manager klantenservice,  
+**wil ik** periodieke rapporten ontvangen over klanttevredenheid en klachten,  
+**zodat** ik kan bijsturen waar nodig.
+
+**Acceptatiecriteria:**
+- Rapporten bevatten Net Promoter Score (NPS), aantal klachten, en wachttijden.
+- Wekelijkse en maandelijkse samenvattingen zijn beschikbaar.
+- Rapporten kunnen automatisch worden gegenereerd.
+
+**Story points:** 2  
+**Prioriteit:** Medium
+
+---
+
+## User Story 6
+
+**Als** leverancier van Nexa-producten,  
+**wil ik** automatisch bericht ontvangen als een product bijna uitverkocht is,  
+**zodat** ik tijdig voorraad kan aanvullen.
+
+**Acceptatiecriteria:**
+- Minimumvoorraadniveau kan per product worden ingesteld.
+- Notificaties worden verzonden via e-mail of in een portaal.
+- De leverancier kan deze meldingen beheren.
+
+**Story points:** 3  
+**Prioriteit:** Medium
+
+---
+
+## User Story 7
+
+**Als** externe partner die diensten wil promoten,  
+**wil ik** mijn promoties kunnen beheren in een partneromgeving,  
+**zodat** ik klanten van Nexa kan bereiken en mijn bereik kan meten.
+
+**Acceptatiecriteria:**
+- Partneromgeving bevat dashboard met klik- en bereikstatistieken.
+- Promoties zijn koppelbaar aan specifieke klantgroepen of producten.
+- Partners kunnen advertenties zelf aanpassen.
+
+**Story points:** 4  
+**Prioriteit:** Laag
 
 ---
 
