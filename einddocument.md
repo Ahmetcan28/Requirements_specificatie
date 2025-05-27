@@ -62,17 +62,35 @@
 10. [Wireframes](#100-wireframes)
 
 
-## 1.0 Organisatorische context
+# 1.0 Organisatorische context
 
-In dit hoofdstuk lichten we toe dat we van plan zijn een vernieuwende mobiele applicatie te ontwikkelen die gericht is op het verbeteren van de klantervaring en het versterken van klantloyaliteit. Deze applicatie draagt bij aan het realiseren van onze missie en visie. Bovendien maken we hiermee duidelijk op welke manier we deze ambities willen waarmaken – met andere woorden, wat onze strategie inhoudt. Daarnaast formuleren we concrete doelstellingen die we als organisatie willen behalen.
+**Nexa** is een innovatief technologiebedrijf dat zich richt op de ontwikkeling van AI-gedreven smartphones. De missie en visie van het bedrijf zijn verder uitgewerkt in hoofdstuk [1.1](#11-missie) en [1.2](#12-visie).  
+In dit document kijken we specifiek hoe de ontwikkeling van een mobiele applicatie bijdraagt aan deze doelen. De app dient als verlengstuk van onze strategie en helpt ons klantgericht, duurzaam en technologisch vooruitstrevend te opereren.
 
-### 1.1 Missie
+## 1.1 Missie
 
-Onze missie is om gebruikers een toegankelijke en gebruiksvriendelijke mobiele applicatie te bieden die hun digitale dagelijkse leven vereenvoudigt. De applicatie die wij ontwikkelen, bundelt al onze diensten en producten op één centrale plek, waardoor het voor klanten eenvoudiger wordt om te vinden wat ze nodig hebben. Daarnaast streven we ernaar om hoogwaardige service en klantgerichte ondersteuning te leveren.
+Ons bedrijf heeft als missie om tegen **2031 wereldwijd de hoogste jaarwinst te behalen**. Dit willen we bereiken door slimme strategieën toe te passen, klantgericht te werken en te innoveren met technologie, zoals AI.  
+We focussen ons op **betaalbare kwaliteit**, **duurzaamheid** en een sterke positie in de concurrerende smartphone-industrie.
 
-### 1.2 Visie
+De missie van de mobiele applicatie sluit goed aan bij deze doelen. Met de app willen we het digitale leven van onze gebruikers makkelijker maken.  
+Alle diensten en producten van het bedrijf worden op één plek samengebracht, zodat klanten sneller kunnen vinden wat ze nodig hebben.  
+Ook willen we met de app zorgen voor goede service en klantgerichte ondersteuning.
 
-Onze visie is om een innovatieve app te maken waarbij de klant echt centraal staat. We willen inspelen op de wensen en behoeften van de gebruiker, zodat zij via hun mobiel een persoonlijke en efficiënte ervaring krijgen. Dit doen we bijvoorbeeld met functies zoals gepersonaliseerde aanbevelingen, die zijn afgestemd op wat de klant belangrijk vindt. Ook bevat de app een functie voor probleemoplossing, zodat klanten snel geholpen worden en de app prettig blijft in gebruik.
+Door deze app te ontwikkelen, versterken we onze **klantgerichtheid** en **technologische innovatie**.  
+De app helpt ons niet alleen om de klant beter te bedienen, maar ondersteunt ook onze groei- en winstdoelen voor de toekomst.  
+Daarom is deze applicatie een belangrijk onderdeel van de strategie van ons bedrijf.
+
+## 1.2 Visie
+
+De mobiele app die wij ontwikkelen moet aansluiten op de visie van Nexa: **technologie slimmer en toegankelijker maken voor iedereen**.  
+Daarom richten we ons binnen deze requirementsanalyse op het creëren van een gebruiksvriendelijke en innovatieve applicatie waarin de klant centraal staat.
+
+We willen dat gebruikers via hun mobiel een **persoonlijke en efficiënte ervaring** krijgen. De app moet niet alleen functioneel zijn, maar ook bijdragen aan **gemak, snelheid en betrouwbaarheid**.  
+Door functies zoals **gepersonaliseerde aanbevelingen** en **snelle probleemoplossing** toe te voegen, zorgen we ervoor dat de app écht inspeelt op de wensen en behoeften van de gebruiker.
+
+Uiteindelijk is het doel om met deze app bij te dragen aan de **duurzame**, **mensgerichte** en **technologische visie** van Nexa.  
+De app wordt dus niet zomaar een digitale tool, maar een **verlengstuk van de merkidentiteit** van Nexa.
+
 
 ### 1.3 Strategie
 
@@ -89,6 +107,9 @@ Onze visie is om een innovatieve app te maken waarbij de klant echt centraal sta
 5. **Groei bevorderen:** Binnen twee jaar gebruikt 70% van de klanten actief de app.
 
 ### 1.5 Organogram
+## Toelichting op het organogram:
+
+Het organogram geeft de structuur weer van het projectteam dat verantwoordelijk is voor de ontwikkeling van de mobiele applicatie van Nexa. De projectleider stuurt drie hoofdteams aan: Operations, Technical en Marketing & Sales. Elk team bestaat uit specifieke rollen die bijdragen aan verschillende onderdelen van het project, zoals implementatie, softwareontwikkeling, systeemintegratie en verkoop. Deze opzet zorgt voor een efficiënte samenwerking tussen technische uitvoering, klantgerichte communicatie en kwaliteitscontrole.
 
 ![organogram](organogram.jpg)
 
