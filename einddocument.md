@@ -117,97 +117,27 @@ Het organogram geeft de structuur weer van het projectteam dat verantwoordelijk 
 
 ---
 
-## 2.0 Stakeholderanalyse
+# 2.0 Stakeholderanalyse
 
-### Identificatie van stakeholders
+Binnen ons bedrijf zijn er verschillende stakeholders die invloed uitoefenen op Nexa of door onze activiteiten worden beïnvloed. Voordat we een stakeholderanalyse uitvoeren met behulp van de Power-Interest Matrix, is het belangrijk om eerst deze stakeholders te identificeren.
 
-Voordat we een stakeholderanalyse uitvoeren met behulp van de **Power-Interest Matrix**, is het belangrijk om eerst te bepalen wie onze stakeholders zijn en waarom zij als stakeholder worden beschouwd. Stakeholders zijn personen of groepen die invloed uitoefenen op ons bedrijf, of zelf beïnvloed worden door de activiteiten van Nexa.
+Stakeholders kunnen intern of extern zijn. Interne stakeholders zijn betrokken bij de dagelijkse werking van het bedrijf en zijn vaak direct aangesloten op de besluitvorming of uitvoering. Externe stakeholders bevinden zich buiten de organisatie, maar kunnen wel een grote rol spelen in het succes van onze activiteiten.
 
-- **Managementteam**  
-Het managementteam bestaat uit o.a. de CEO, COO, CMO, CFO en HR-manager. Ze nemen belangrijke strategische beslissingen en hebben grote invloed op het bedrijf.
+## Algemene stakeholders van Nexa
 
-- **Investeerders / Bank**  
-De bank fungeert als investeerder. Ze hebben invloed via financiële voorwaarden zoals rente en aflossing.
-
-- **Externe partners**  
-Marketingbureaus, IT-dienstverleners en onderhoudsbedrijven. Hun kwaliteit beïnvloedt direct onze dienstverlening.
-
-- **Medewerkers**  
-Hun inzet en werkkwaliteit hebben directe invloed op prestaties en klantbeleving.
-
-- **Klanten**  
-Zij bepalen het succes via hun tevredenheid, gedrag en feedback.
-
-- **Leverancier**  
-Nexa werkt met één vaste leverancier. Deze partij is cruciaal voor voorraad en levering.
-
-- **Concurrenten**  
-Beïnvloeden onze marktpositie via prijzen, innovaties en marketing.
-
-- **Overheid**  
-Heeft invloed via wetgeving (belasting, privacy, productveiligheid).
-
-- **Media**  
-Beïnvloedt de reputatie van Nexa via publicaties (positief of negatief).
-
----
-
-### 2.1 Stakeholdergroepen
-
-**Interne stakeholders:**
-
-- Managementteam (CEO, COO, CFO, CMO, HRM)  
-- Investeerder / Bank  
-- Externe partners  
-- Medewerkers  
-- IT-afdeling  
-- Klantenservice  
-- HRM-afdeling  
-- Financiële afdeling  
-- Research & Analyse-afdeling
-
-**Externe stakeholders:**
-
-- Klanten  
-- Leverancier  
-- Concurrenten  
-- Overheid  
-- Media
-
----
-
-### 2.2 Power-Interest Matrix
-
-We maken gebruik van de **Power-Interest Matrix** om te bepalen hoe we met stakeholders omgaan.
-
-**Categorieën:**
-- **Manage closely** – Veel invloed én belang  
-- **Keep satisfied** – Veel invloed, minder belang  
-- **Keep informed** – Weinig invloed, veel belang  
-- **Monitor** – Weinig invloed en weinig belang
-
-**Toelichting:**
-
-- **Manage closely:**  
-  - *Managementteam* – strategisch stuur  
-  - *Klanten* – directe gebruikers en bron van inkomsten  
-
-- **Keep satisfied:**  
-  - *Overheid* – wet- en regelgeving  
-  - *Externe partners* – belangrijk voor uitvoering, minder voor strategie  
-
-- **Keep informed:**  
-  - *Investeerder / Bank* – financieel belang, minder directe invloed  
-  - *Leverancier* – belangrijk, maar vervangbaar  
-
-- **Monitor:**  
-  - *Media* – indirecte reputatie-invloed  
-  - *Concurrenten* – wederzijdse marktinvloed, beperkt  
+| Stakeholder         | Beschrijving |
+|---------------------|-------------|
+| Klanten             | Personen die smartphones of aanverwante producten kopen via Nexa. Ze vormen de belangrijkste bron van inkomsten en zijn direct betrokken bij het gebruik van de mobiele applicatie. |
+| Concurrentie        | Andere bedrijven binnen de telecom- of techbranche die vergelijkbare producten of diensten aanbieden. Zij beïnvloeden de markt waarin Nexa opereert. |
+| Medewerkers         | Werknemers binnen Nexa die betrokken zijn bij promotiebeheer, productaanbevelingen via de app, en technische ondersteuning. Dit omvat ook ontwikkelaars. |
+| Externe partners    | Bedrijven die Nexa ondersteunen bij diensten zoals reparatie, onderhoud of marketing. Deze partners leveren specialistische bijdragen aan het geheel. |
+| Managementteam      | De directie en het management van Nexa (CEO, COO, CFO, CMO, HRM) zijn verantwoordelijk voor het aansturen van de organisatie en het nemen van strategische beslissingen. |
+| Overheid            | De Nederlandse overheid oefent invloed uit via wet- en regelgeving. Nexa moet voldoen aan nationale eisen op het gebied van privacy, consumentenrecht, belasting en productveiligheid. |
+| Leveranciers        | Deze partijen leveren de benodigde producten of onderdelen aan Nexa. Aangezien Nexa met één hoofdleverancier werkt, is deze partij belangrijk voor de bedrijfscontinuïteit. |
+| I
+ 
 
 ![matrix](matrix.jpg)
-
-> *Waarom deze matrix?*  
-De Power-Interest Matrix biedt inzicht in zowel invloed als betrokkenheid. Het helpt bij het stellen van prioriteiten in communicatie en samenwerking.
 
 ## 3.0 Actoren
 
