@@ -576,7 +576,8 @@ Als niemand weet dat de app bestaat, zal niemand hem downloaden. Goede promotie 
 
 ## 8.0 UML-klassendiagram
 
-![uml klassendiagram](uml-klassendiagram.jpg)
+![UML-klassendiagram](UML-klassendiagram.png)
+
 
 ---
 
