@@ -210,23 +210,29 @@ Een veelgebruikte methode om processen te structureren is de SIPOC-analyse. SIPO
 
 ## SIPOC
 
-| SIPOC     | IST (Huidige situatie)                                                                 | SOLL (Toekomstige situatie)                                                             | Gap (Knelpunten)                                                                                   |
-|-----------|-----------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
-| Suppliers | - Klant levert zijn productinformatie handmatig<br>- Medewerker helpt bij regristratie en klanten<br>- IT en supportteam voeren diagnose handmatig uit | - Klant levert gegevens via de app<br>- AI zorgt ervoor dat problemen automatisch zijn vastgelegd<br>- Informatie komt via CRM en ERP integratie | Klanten zijn afhankelijk van handmatige ondersteuning; beperkt gebruik van technologie.             |
-| Inputs    | - Serienummers, IMEI scan via telefoon of e-mail<br>- Losse garantie of supportaanvragen<br>- Interactie met medewerkers is vereist | - Invoer via QR/barcode-scan of app-interface<br>- updates via gekoppelde systemen<br>- Klantgedrag wordt automatisch gevolgd | Handmatige input kost tijd en is foutgevoelig; geen data-inzichten                                 |
-| Process   | - Klant belt of mailt voor hulp<br>- Registratie handmatig<br>- Langzame doorlooptijd bij support | - Klant registreert product direct in app<br>- App toont producten, garanties, status en biedt directe hulp<br>- Community en feedbackloop | Geen centrale toegang tot productinfo of help; geen proactieve klantinteractie                     |
-| Outputs   | - Bevestiging via e-mail<br>- Oplossingen na wachttijd<br>- Handmatige terugkoppeling over garantie of updates | - Direct inzicht via dashboard<br>- Pushnotificaties over updates, service en promoties<br>- Personalisatie en beloningen via gamification | Trage terugkoppeling; communicatie niet gepersonaliseerd                                           |
-| Customers | - Klanten wachten op reacties<br>- Medewerkers worden overbelast bij veel supportvragen | - Klanten krijgen snelle hulp via AI & selfservice<br>- Medewerkers focussen op complexe hulpvragen<br>- Hogere tevredenheid en betrokkenheid | Lage klanttevredenheid, hoge druk op personeel, gemiste kans op loyaliteit                         |
-
 ## Doelstellingen:
+- ✅ 80% klanttevredenheid  
+- 🔁 25% hogere klantloyaliteit  
+- 📉 30% minder hulpvragen  
+- 💡 Jaarlijkse innovaties  
+- 📱 70% app-adoptie  
 
-- 80% tevredenheid  
-- 25% hogere klantloyaliteit  
-- 30% minder hulpvragen  
-- Jaarlijkse innovaties  
-- 70% app-adoptie  
+---
 
-SIPOC beschrijft hoe deze doelen bereikt worden via de transitie van IST naar SOLL
+## SIPOC Tabel
+
+| Element    | IST (Huidige situatie)                                                                 | SOLL (Toekomstige situatie)                                                                 | GAP (Knelpunten)                                                                 |
+|------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| **Suppliers** | - Klant levert productinformatie handmatig  <br> - Medewerker helpt bij registratie <br> - IT en supportteam voeren diagnose handmatig uit | - Klant levert gegevens aan via de app  <br> - AI registreert automatisch problemen  <br> - CRM/ERP-integratie verwerkt data automatisch | Klanten zijn afhankelijk van handmatige ondersteuning; beperkt gebruik van technologie |
+| **Inputs** | - Serienummers, IMEI via telefoon of e-mail <br> - Garantie- en supportaanvragen handmatig <br> - Medewerkerinteractie vereist | - QR-/barcodescan via app <br> - Updates via gekoppelde systemen <br> - Automatisch klantgedrag volgen | Handmatige input kost tijd, is foutgevoelig en biedt geen data-inzichten |
+| **Process** | - Klant belt of mailt voor hulp <br> - Handmatige registratie <br> - Trage supportdoorlooptijd | - Registratie direct via app <br> - App toont producten, status, garanties <br> - Community & feedbackloop | Geen centrale toegang tot productinfo of directe klantinteractie |
+| **Outputs** | - Bevestiging via e-mail <br> - Oplossingen na wachttijd <br> - Handmatige terugkoppeling over garantie | - Inzicht via dashboard <br> - Pushnotificaties over updates en promoties <br> - Personalisatie & beloningen | Trage terugkoppeling, niet-gepersonaliseerde communicatie |
+| **Customers** | - Wachten op reactie <br> - Medewerkers overbelast bij pieken | - Snelle hulp via AI & selfservice <br> - Medewerkers focussen op complexe gevallen <br> - Meer tevreden en betrokken klanten | Lage klanttevredenheid, hoge druk op personeel |
+
+---
+
+## Toelichting
+Deze SIPOC beschrijft hoe de overstap van een handmatig, foutgevoelig proces (IST) naar een geautomatiseerd, klantgericht platform (SOLL) leidt tot hogere efficiëntie, klanttevredenheid en minder druk op personeel. De GAPs maken duidelijk waar de pijnpunten zitten en waarom deze transformatie essentieel is.
 
 ## 5.0 Productvisie
 ![productvisionboard](productvisionboard.png)
