@@ -120,13 +120,30 @@ De app wordt dus niet zomaar een digitale tool, maar een **verlengstuk van de me
 4. **Innovatie stimuleren:** Ieder jaar minstens 3 nieuwe functies toevoegen.
 5. **Groei bevorderen:** Binnen twee jaar gebruikt 70% van de klanten actief de app.
 
-### 1.5 Organogram
-## Toelichting op het organogram:
+## 1.5 Projectorganisatie
 
-Het organogram geeft de structuur weer van het projectteam dat verantwoordelijk is voor de ontwikkeling van de mobiele applicatie van Nexa. De projectleider stuurt drie hoofdteams aan: Operations, Technical en Marketing & Sales. Elk team bestaat uit specifieke rollen die bijdragen aan verschillende onderdelen van het project, zoals implementatie, softwareontwikkeling, systeemintegratie en verkoop. Deze opzet zorgt voor een efficiënte samenwerking tussen technische uitvoering, klantgerichte communicatie en kwaliteitscontrole.
+Voor de ontwikkeling van de mobiele applicatie is een multidisciplinair projectteam samengesteld. Dit team bestaat uit vier studenten die elk een specifieke rol vervullen binnen het ontwikkelproces. Het team werkt op basis van principes en is gezamenlijk verantwoordelijk voor het opleveren van een gebruiksvriendelijke, functionele en technisch werkende applicatie.
 
-![organogram](organogram.jpg)
+### Teamstructuur
 
+![projectstructuur](projectstructuur.png)
+
+### Rollen en verantwoordelijkheden
+
+- **Ahmetcan – Projectleider**  
+  Verantwoordelijk voor de algemene voortgang van het project, communicatie met de docent/stakeholders en het coördineren van de taken binnen het team.
+
+- **Kaan – Requirements Engineer**  
+  Stelt functionele en niet-functionele eisen op aan de hand van interviews, feedback en analyse van de gebruikersbehoeften. Verwerkt deze eisen in het requirementsdocument.
+
+- **Melih – UX/UI Ontwerper**  
+  Ontwerpt wireframes en de gebruikersinterface van de applicatie. Richt zich op gebruiksvriendelijkheid, navigatiestructuur en visuele consistentie.
+
+- **Bilal – Developer**  
+  Verantwoordelijk voor de technische realisatie van de applicatie. Bouwt prototypes, test functionaliteiten en koppelt met systemen zoals CRM/ERP indien nodig.
+
+- **Tester (ondersteunende rol)**  
+  Controleert of de applicatie voldoet aan de gestelde eisen, signaleert bugs en beoordeelt de werking aan de hand van de opgestelde acceptatiecriteria uit de user stories.
 
 
 ---
