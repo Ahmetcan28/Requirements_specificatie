@@ -233,31 +233,46 @@ Een veelgebruikte methode om processen te structureren is de SIPOC-analyse. SIPO
 - Outputs (resultaten), en
 - Customers (klanten/gebruikers van de output).
 
-## SIPOC
+## 4.1 Beschrijving van het proces
 
-## Doelstellingen:
-- ✅ 80% klanttevredenheid  
-- 🔁 25% hogere klantloyaliteit  
-- 📉 30% minder hulpvragen  
-- 💡 Jaarlijkse innovaties  
-- 📱 70% app-adoptie  
+Het gekozen proces dat wij behandelen is de **productregistratie na aankoop van een Nexa-smartphone**.  
+Dit proces start op het moment dat een klant de smartphone in bezit heeft en eindigt zodra het toestel correct is geregistreerd in het systeem van Nexa.  
 
----
+Tijdens dit proces worden klantgegevens, toestelgegevens (zoals IMEI) en garantiedata verzameld en opgeslagen.  
+Het doel is om klanten toegang te geven tot aanvullende diensten zoals:
 
-## SIPOC Tabel
+- Garantie
+- Technische ondersteuning
+- Software-updates
+- Gepersonaliseerde aanbiedingen
 
-| Element    | IST (Huidige situatie)                                                                 | SOLL (Toekomstige situatie)                                                                 | GAP (Knelpunten)                                                                 |
-|------------|------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **Suppliers** | - Klant levert productinformatie handmatig  <br> - Medewerker helpt bij registratie <br> - IT en supportteam voeren diagnose handmatig uit | - Klant levert gegevens aan via de app  <br> - AI registreert automatisch problemen  <br> - CRM/ERP-integratie verwerkt data automatisch | Klanten zijn afhankelijk van handmatige ondersteuning; beperkt gebruik van technologie |
-| **Inputs** | - Serienummers, IMEI via telefoon of e-mail <br> - Garantie- en supportaanvragen handmatig <br> - Medewerkerinteractie vereist | - QR-/barcodescan via app <br> - Updates via gekoppelde systemen <br> - Automatisch klantgedrag volgen | Handmatige input kost tijd, is foutgevoelig en biedt geen data-inzichten |
-| **Process** | - Klant belt of mailt voor hulp <br> - Handmatige registratie <br> - Trage supportdoorlooptijd | - Registratie direct via app <br> - App toont producten, status, garanties <br> - Community & feedbackloop | Geen centrale toegang tot productinfo of directe klantinteractie |
-| **Outputs** | - Bevestiging via e-mail <br> - Oplossingen na wachttijd <br> - Handmatige terugkoppeling over garantie | - Inzicht via dashboard <br> - Pushnotificaties over updates en promoties <br> - Personalisatie & beloningen | Trage terugkoppeling, niet-gepersonaliseerde communicatie |
-| **Customers** | - Wachten op reactie <br> - Medewerkers overbelast bij pieken | - Snelle hulp via AI & selfservice <br> - Medewerkers focussen op complexe gevallen <br> - Meer tevreden en betrokken klanten | Lage klanttevredenheid, hoge druk op personeel |
+Een goed functionerende registratie is essentieel voor een optimale klantervaring en efficiëntie binnen Nexa.
 
 ---
 
-## Toelichting
-Deze SIPOC beschrijft hoe de overstap van een handmatig, foutgevoelig proces (IST) naar een geautomatiseerd, klantgericht platform (SOLL) leidt tot hogere efficiëntie, klanttevredenheid en minder druk op personeel. De GAPs maken duidelijk waar de pijnpunten zitten en waarom deze transformatie essentieel is.
+## 4.2 SIPOC – Huidige en toekomstige situatie
+
+| **Element**   | **IST (Huidige situatie)**                                                                 | **SOLL (Toekomstige situatie)**                                                                 |
+|---------------|---------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| **Suppliers** | Klant, verkoopmedewerker en IT-supportteam                                                 | Klant, Nexa-app en AI-systeem                                                                    |
+| **Inputs**    | IMEI-nummer via e-mail of formulier, aankoopbewijs, handmatige registratie                  | QR-code of barcodescan via app, automatische klantgegevens uit gebruikersaccount                |
+| **Process**   | Klant stuurt gegevens op → medewerker voert handmatig in → bevestiging via e-mail          | Klant scant QR-code → app koppelt toestel aan profiel → automatische bevestiging in app         |
+| **Outputs**   | Invoer in backoffice-systeem, garantiebevestiging via e-mail                               | Geregistreerd toestel zichtbaar in app-dashboard, direct inzicht in garantie en status           |
+| **Customers** | Klant wacht op bevestiging, afhankelijk van medewerker                                     | Klant ontvangt real-time bevestiging via app, direct toegang tot gekoppelde functies            |
+
+---
+
+## 4.3 GAP-analyse (knelpunten)
+
+Op basis van de bovenstaande SIPOC-analyse zijn de volgende knelpunten vastgesteld:
+
+- Veel handmatig werk bij het verwerken van toesteldata – dit is foutgevoelig en tijdrovend.
+- Trage doorlooptijd van registratie: klanten moeten wachten op bevestiging via e-mail.
+- Beperkte klantinzichten: de klant kan niet direct zien of het toestel is gekoppeld en welke garantie geldt.
+- Geen centrale omgeving voor klanten om hun apparaten te beheren.
+
+Deze GAPs benadrukken de noodzaak voor een mobiele applicatie waarmee klanten zelfstandig hun producten kunnen registreren, beheren en ondersteuning ontvangen.
+
 
 ## 5.0 Productvisie
 ![productvisionboard](productvisionboard.png)
