@@ -10,23 +10,27 @@
 
 ### Versieoverzicht
 
+## Versieoverzicht
 
-| Versienummer | Datum                       | Auteur            | Wijziging                                           | Gecontroleerd door   |
-|--------------|-----------------------------|-------------------|-----------------------------------------------------|-----------------------|
-| 0.1          | 13-05-2025                  | Ahmetcan Akin     | Opzet document                                     | Kaan Akgurbuz         |
-| 0.2          | 13-05-2025                  | Ahmetcan Akin     | Organisatorische context                           | Kaan Akgurbuz         |
-| 0.3          | 14-05-2025 & 15-05-2025     | Ahmetcan Akin     | Actoren                                            | Kaan Akgurbuz         |
-| 0.4          | 13-05-2025                  | Bilal Chernoubi   | Bedrijfsprocesanalyse                              | Melih Danismaz        |
-| 0.5          | 14-05-2025 & 15-05-2025     | Bilal Chernoubi   | Productvisie                                       | Melih Danismaz        |
-| 0.6          | 13-05-2025                  | Melih Danismaz    | Userstories                                        | Bilal Chernoubi       |
-| 0.7          | 14-05-2025 & 15-05-2025     | Melih Danismaz    | Domeinmodel incl UML-klassendiagram                | Bilal Chernoubi       |
-| 0.8          | 13-05-2025                  | Kaan Akgurbuz     | Sitemap                                            | Ahmetcan Akin         |
-| 0.9          | 14-05-2025 & 15-05-2025     | Kaan Akgurbuz     | Wireframes                                         | Ahmetcan Akin         |
-| 1.0          | 26-05-2025                  | Kaan Akgurbuz     | Verbeteren feedback van stakeholderanalyse/actoren | Ahmetcan Akin         |
-| 1.1          | 25-05-2025 & 26-05-2025     | Ahmetcan Akin     | Verbeteren feedback van sitemap en wireframes      | Kaan Akgurbuz         |
-| 1.2          | 25-05-2025 & 26-05-2025     | Melih Danismaz    | Verbeteren feedback bedrijfsprocesanalyse          | Bilal Chernobi        |
-| 1.3          | 25-05-2025 & 26-05-2025     | Bilal Chernobi    | Verbeteren van UML-klassendiagram                  | Melih Danismaz        |
-
+| Versienummer | Datum               | Auteur           | Wijziging                                           | Gecontroleerd door   |
+|--------------|---------------------|------------------|-----------------------------------------------------|-----------------------|
+| 0.1          | 13-05-2025          | Ahmetcan Akin    | Opzet document                                     | Kaan Akgurbuz         |
+| 0.2          | 13-05-2025          | Ahmetcan Akin    | Organisatorische context                           | Kaan Akgurbuz         |
+| 0.3          | 14-05-2025 & 15-05-2025 | Ahmetcan Akin    | Actoren                                            | Kaan Akgurbuz         |
+| 0.4          | 13-05-2025          | Bilal Chernoubi  | Bedrijfsprocesanalyse                              | Melih Danismaz        |
+| 0.5          | 14-05-2025 & 15-05-2025 | Bilal Chernoubi  | Productvisie                                       | Melih Danismaz        |
+| 0.6          | 13-05-2025          | Melih Danismaz   | Userstories                                        | Bilal Chernoubi       |
+| 0.7          | 14-05-2025 & 15-05-2025 | Melih Danismaz   | Domeinmodel incl UML-klassendiagram                | Bilal Chernoubi       |
+| 0.8          | 13-05-2025          | Kaan Akgurbuz    | Sitemap                                            | Ahmetcan Akin         |
+| 0.9          | 14-05-2025 & 15-05-2025 | Kaan Akgurbuz    | Wireframes                                         | Ahmetcan Akin         |
+| 1.0          | 26-05-2025          | Kaan Akgurbuz    | Verbeteren feedback van stakeholderanalyse en actoren | Ahmetcan Akin     |
+| 1.1          | 25-05-2025 & 26-05-2025 | Ahmetcan Akin    | Verbeteren feedback van sitemap en wireframes      | Kaan Akgurbuz         |
+| 1.2          | 25-05-2025 & 26-05-2025 | Melih Danismaz   | Verbeteren feedback bedrijfsprocesanalyse          | Bilal Chernoubi       |
+| 1.3          | 25-05-2025 & 26-05-2025 | Bilal Chernoubi  | Verbeteren van UML-klassendiagram                  | Melih Danismaz        |
+| 1.4          | 11-06-2025          | Ahmetcan Akin    | Verbetering wireframes                             | Kaan Akgurbuz         |
+| 1.5          | 11-06-2025          | Kaan Akgurbuz    | Verbetering organisatorische context               | Ahmetcan Akin         |
+| 1.6          | 11-06-2025          | Melih Danismaz   | Verbetering SIPOC                                  | Bilal Chernoubi       |
+| 1.7          | 11-06-2025          | Bilal Chernoubi  | Verbetering domeinmodel en klassendiagram          | Melih Danismaz        |
 
 ---
 ## Inhoudsopgave
