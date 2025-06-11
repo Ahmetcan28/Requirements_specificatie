@@ -71,11 +71,15 @@
 
 10. [Wireframes](#100-wireframes)
 
+## 1.0 Organisatorische context
 
-# 1.0 Organisatorische context
+Nexa is een innovatief technologiebedrijf dat zich richt op de ontwikkeling van AI-gedreven smartphones. De missie en visie van het bedrijf zijn verder uitgewerkt in hoofdstuk [1.1](#11-missie) en [1.2](#12-visie).  
+In dit document richten we ons op een specifiek project binnen Nexa: de ontwikkeling van een mobiele applicatie waarmee klanten hun Nexa-producten eenvoudig kunnen registreren, beheren en ondersteuning kunnen ontvangen.
 
-**Nexa** is een innovatief technologiebedrijf dat zich richt op de ontwikkeling van AI-gedreven smartphones. De missie en visie van het bedrijf zijn verder uitgewerkt in hoofdstuk [1.1](#11-missie) en [1.2](#12-visie).  
-In dit document kijken we specifiek hoe de ontwikkeling van een mobiele applicatie bijdraagt aan deze doelen. De app dient als verlengstuk van onze strategie en helpt ons klantgericht, duurzaam en technologisch vooruitstrevend te opereren.
+De requirementsanalyse die in dit document wordt beschreven, vormt de basis voor dit project. Het doel van deze analyse is om alle functionele en niet-functionele eisen voor de mobiele applicatie helder te beschrijven, zodat het ontwikkelingsteam gericht aan de slag kan. De analyse helpt bij het structureren van de wensen van zowel klanten als interne stakeholders, en draagt bij aan een toekomstbestendige, klantgerichte oplossing.
+
+Deze applicatie is niet slechts een uitbreiding van de dienstverlening, maar een strategisch onderdeel van de digitale transformatie van Nexa. Door middel van deze app wil Nexa haar klantgerichtheid, efficiëntie en technologische voorsprong vergroten.
+
 
 ## 1.1 Missie
 
