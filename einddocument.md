@@ -604,29 +604,49 @@ Als niemand weet dat de app bestaat, zal niemand hem downloaden. Goede promotie 
 
 ## 7.0 Domeinmodel
 
-**Entiteiten:**
+Het onderstaande domeinmodel geeft een overzicht van de belangrijkste entiteiten en de relaties daartussen binnen de Nexa-app en de bijbehorende bedrijfsprocessen. Het model is opgesteld op basis van de eerder beschreven user stories, actoren en functionele eisen.
 
-- Klant – eindgebruiker van de app  
-- Smartphone – geregistreerd toestel van klant  
-- Garantie – gekoppeld aan toestel (periode/status)  
-- Afspraken – voor onderhoud/advies/reparatie  
-- Chatgesprek – met AI-chatbot  
-- Medewerker – support en klantbeheer  
-- Pushmelding – berichten naar klant  
-- Loyaliteitspunt – spaarsysteem per klant  
-- Leverancier – ontvangt voorraadmeldingen  
-- Partner – adverteert in app
+De weergegeven entiteiten vormen samen de kern van het systeem:
 
-**Relaties:**
+· Klant – de gebruiker van de app, die smartphones registreert, berichten ontvangt en gebruikmaakt van diverse functionaliteiten.
 
-- Een klant kan meerdere smartphones registreren  
-- Een smartphone heeft één garantie  
-- Een klant kan meerdere afspraken en chatgesprekken hebben  
-- Medewerkers beheren meerdere afspraken  
-- Pushmeldingen gaan naar klanten  
-- Loyaliteitspunten zijn gekoppeld aan klantactiviteit  
-- Leveranciers leveren producten en ontvangen meldingen  
-- Partners beheren advertenties en content in app
+· Smartphone – het toestel dat door de klant wordt geregistreerd via een QR-code.
+
+· Garantie – gekoppeld aan een smartphone en bevat informatie over de looptijd en status van de garantie.
+
+· Afspraak – door de klant ingepland voor onderhoud, advies of reparatie.
+
+· Chatgesprek – communicatie tussen de klant en de AI-chatbot of een medewerker van de klantenservice.
+
+· Medewerker – verantwoordelijk voor het ondersteunen van klanten en het beheren van afspraken.
+
+· Pushmelding – berichten die automatisch of via externe partijen naar klanten worden verzonden.
+
+· Loyaliteitspunt – onderdeel van het spaarsysteem dat is gekoppeld aan klantgedrag of aankopen.
+
+· Leverancier – levert toestellen en wordt geïnformeerd wanneer de voorraad laag is.
+
+· Partner – externe partij die advertenties of promoties aanlevert binnen de app.
+
+Relaties tussen entiteiten:
+
+· Een klant kan meerdere smartphones registreren.
+
+· Elke smartphone is gekoppeld aan precies één klant, wordt geleverd door één leverancier, en kan maximaal één garantie hebben.
+
+· Een klant kan meerdere afspraken, chatgesprekken en loyaliteitspunten hebben.
+
+· Elke afspraak wordt uitgevoerd door precies één medewerker.
+
+· Een pushmelding kan aan meerdere klanten worden gestuurd en wordt beheerd door een partner.
+
+· Eén partner kan verantwoordelijk zijn voor meerdere pushmeldingen.
+
+· Elk loyaliteitspunt is gekoppeld aan één klant.
+
+Voor dit model is gebruikgemaakt van UML-notatie, zodat de entiteiten en hun relaties op een heldere en gestandaardiseerde manier worden weergegeven. De kardinaliteiten (zoals 1, 0..*, 0..1) zijn aan beide zijden van de relaties opgenomen om inzicht te geven in hoeveel entiteiten met elkaar verbonden kunnen zijn.
+
+Het diagram is opgesteld met behulp van PlantUML, een tool waarmee snel en gestructureerd softwaremodellen zoals dit domeinmodel kunnen worden gemaakt. De uiteindelijke weergave kunt u hieronder bekijken:
 ![Domeinmodel](DDomeinmodel.png)
 
 ---
