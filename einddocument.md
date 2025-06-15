@@ -627,13 +627,13 @@ Als niemand weet dat de app bestaat, zal niemand hem downloaden. Goede promotie 
 - Loyaliteitspunten zijn gekoppeld aan klantactiviteit  
 - Leveranciers leveren producten en ontvangen meldingen  
 - Partners beheren advertenties en content in app
-![Domeinmodel](domenmodel.png)
+![Domeinmodel](DDomeinmodel.png)
 
 ---
 
 ## 8.0 UML-klassendiagram
 
-![UML-klassendiagram](UML-klassendiagram.png)
+![UML-klassendiagram](Klassendiagrm2.png)
 
 
 ---
