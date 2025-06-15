@@ -648,5 +648,5 @@ Deze sitemap geeft een overzicht van de structuur van de Nexa-app. Vanuit het ce
 De bijbehorende wireframes geven per onderdeel visueel weer hoe deze functies eruit kunnen zien in de app. Samen vormen de sitemap en wireframes een onderbouwde blauwdruk voor de ontwikkeling van een gebruiksvriendelijke en toekomstgerichte mobiele applicatie voor Nexa.
 
 ## 10.0 Wireframes
-![wireframes](WIreframeS.png)
+![wireframes](Wireframes5.png)
 
